@@ -24,10 +24,10 @@ This project is dedicated to developing a text summarization tool using advanced
 
 To get started with the project, clone the repository and install the necessary dependencies:
 
-bash
+'''bash
 git clone https://github.com/yourusername/text-summarization-project.git
 cd text-summarization-project
-pip install -r requirements.txt
+pip install -r requirements.txt'''
 
 
 ## How It Works
@@ -49,7 +49,8 @@ Output:
 "Artificial intelligence is intelligence demonstrated by machines, focused on creating devices that perceive their environment and take actions to achieve their goals."
 
 ## Contributing
-We welcome contributions from the community. To contribute:
+We welcome contributions from the community. 
+To contribute:
 
 Fork the repository.
 
@@ -65,4 +66,4 @@ Create a new Pull Request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, please contact your.email@example.com.
+For any inquiries or feedback, please contact kantemadhusudhan7@gmail.com.
