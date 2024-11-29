@@ -28,7 +28,9 @@ To get started with the project, clone the repository and install the necessary 
 git clone https://github.com/yourusername/text-summarization-project.git
 cd text-summarization-project
 pip install -r requirements.txt
-How It Works
+
+
+## How It Works
 Input Text: Users can input the text they want to summarize.
 
 Processing: The text is processed using NLP techniques to understand its structure and meaning.
